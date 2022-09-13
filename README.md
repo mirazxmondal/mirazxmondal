@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 💬 Ask me about **JS, Linux**
+- 💬 Ask me about **HTML CSS JAVASCRIPT & LINUX**
 
 - 📫 How to reach me **mirazmondal.official@gmail.com**
 
