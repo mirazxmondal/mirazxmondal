@@ -27,6 +27,6 @@
 </table>
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=miraz-mondal" />
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=miraz-mondal&theme=prussian"/>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=miraz-mondal&theme=gotham"/>
 </p>
 
