@@ -6,7 +6,7 @@ src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546cc
 
 # 💫 About Me
 🔭 I’m currently working on MERN && LAMP technology stack <br> 
-👯 Looking to collaborate on Web Development and Open Source Software <br>
+👯 Looking to collaborate on Web Dev and Open Source Software <br>
 🌱 Currently learning Kubernetes, Docker and Jenkins <br> 
 💬 Ask me about Web Technologies and Cinema <br>
 :muscle: Cloud Automation and AR/VR Enthusiast <br> 
