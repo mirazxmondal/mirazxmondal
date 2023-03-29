@@ -11,7 +11,7 @@ src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546cc
 💬 Ask me about Web Technologies and Cinema <br>
 :muscle: Cloud Automation and AR/VR Enthusiast <br> 
 ⚡ There is no in-between, either I am coding or watching films. <br> 
-📫 Contact: mirazmondal.official@gmail.com
+📫 Contact me: mirazmondal.dev@gmail.com
 
 
 ## 🌐 Socials:
