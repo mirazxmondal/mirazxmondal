@@ -1,5 +1,7 @@
 <h1 align="center"> Namaste <img width="25px" src="./Assets/miraz-waveing.gif" alt="Hello Developers!">, I'm Miraz Mondal</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">
+    Passionate developer based in the City of Joy 😊
+</h3>
 
 
 <img align="right" alt="Coding" width="400" 
@@ -15,12 +17,12 @@ src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546cc
 ⚡ There is no in-between, either I am coding or watching films. <br> 
 
 
-## 🌐 Connect with me:
+## 🌐 Connect With Me 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mirazxmondal) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirazxmondal) 
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -46,7 +48,7 @@ src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546cc
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <table>
 <tr>
