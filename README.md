@@ -1,6 +1,6 @@
 <h1 align="center"> Namaste <img width="25px" src="./Assets/miraz-waveing.gif" alt="Hello Developers!">, I'm Miraz Mondal</h1>
 <h3 align="center">
-    Passionate developer based in the City of Joy 😊
+    A passionate developer from India 😊
 </h3>
 
 
@@ -62,4 +62,6 @@ src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546cc
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mirazxmondal&theme=aura"/>
 </p>
 
+<!---
 [![@mirazxmondal's Holopin board](https://holopin.me/mirazxmondal)](https://holopin.io/@mirazxmondal)
+-->
