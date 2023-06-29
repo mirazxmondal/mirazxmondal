@@ -23,6 +23,7 @@ src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546cc
 
 
 # 💻 Tech Stack 
+<!---
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -47,6 +48,7 @@ src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546cc
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
+-->
 
 # 📊 GitHub Stats
 
