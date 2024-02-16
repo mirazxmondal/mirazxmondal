@@ -1,14 +1,10 @@
 <h1 align="center"> Namaste <img width="25px" src="./Assets/miraz-waveing.gif" alt="Hello Developers!">, I'm Miraz Mondal</h1>
 <h3 align="center">
-    A passionate developer from India 😊
+
 </h3>
 
-
-<img align="right" alt="Coding" width="370" 
-src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
-
-
 # 💫 About Me
+😊 A passionate developer from India <br> 
 🔭 I’m currently working on MERN && LAMP technology stack <br> 
 👯 Looking to collaborate on Web Dev and Open Source Software <br>
 🌱 Currently learning Kubernetes, Docker and Jenkins <br> 
@@ -48,22 +44,5 @@ src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546cc
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
+#
 
-
-# 📊 GitHub Stats
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=mirazxmondal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=aura"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mirazxmondal&show_icons=true&locale=en&layout=compact&theme=aura"/>
-</td>
-</tr> 
-</table>
-<p align="center">
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mirazxmondal&theme=aura"/>
-</p>
-
-<!---
-[![@mirazxmondal's Holopin board](https://holopin.me/mirazxmondal)](https://holopin.io/@mirazxmondal)
--->
