@@ -4,13 +4,12 @@
 </h3>
 
 # 💫 About Me
-😊 A passionate developer from India <br> 
-🔭 I’m currently working on MERN && LAMP technology stack <br> 
+😊 I’m a passionate self-taught developer from India <br> 
+🔭 Currently working on MERN && LAMP technology stack <br> 
 👯 Looking to collaborate on Web Dev and Open Source Software <br>
-🌱 Currently learning Kubernetes, Docker and Jenkins <br> 
-👀 Interested in Distributed Software Systems, Blockchain and Web3 <br> 
+👀 Interested in Distributed Software Systems, Web3 and Low Level Design <br> 
 :muscle: Cloud Automation and AR/VR Enthusiast <br> 
-💬 Ask me about Web Technologies and Cinema <br>
+💬 Ask me anything about Web Technologies and Cinema <br>
 ⚡ There is no in-between, either I am coding or watching films. <br> 
 
 
