@@ -1,4 +1,4 @@
-<h1 align="center"> Namaste <img width="25px" src="./Assets/miraz-waveing.gif" alt="Hello Developers!">, I'm Miraz Mondal</h1>
+<h1 align="center"> Namaste <img width="25px" src="./Assets/miraz-waveing.gif" alt="Hello Developers!">, all of you beautiful people</h1>
 <h3 align="center">
 
 </h3>
