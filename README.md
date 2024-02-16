@@ -12,11 +12,7 @@
 💬 Ask me anything about Web Technologies and Cinema <br>
 ⚡ There is no in-between, either I am coding or watching films. <br> 
 
-
-## 🌐 Connect With Me 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mirazxmondal) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirazxmondal) 
-
+#
 
 # 💻 Tech Stack 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
