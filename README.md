@@ -11,7 +11,6 @@
 👀 Interested in distributed software systems, web3 and low level design <br>
 :muscle: Cloud automation and AR/VR enthusiast <br>
 💬 Ask me anything about web technologies and cinema <br>
-⚡ There is no in-between, either I am coding or watching films. <br>
 
 #
 
