@@ -3,7 +3,7 @@
 
 </h3>
 
-# 💫 About Me
+# 💫 whoami
 
 😊 I’m a passionate self-taught developer from India <br>
 🔭 Currently working on MERN && LAMP technology stack <br>
