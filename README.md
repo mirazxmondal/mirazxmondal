@@ -8,8 +8,8 @@
 😊 I’m a passionate self-taught developer from India <br>
 🔭 Currently working on MERN && LAMP technology stack <br>
 👯 Looking to collaborate on web dev and open source software <br>
-👀 Interested in distributed software systems, Web3 and low level design <br>
-:muscle: Cloud Automation and AR/VR Enthusiast <br>
+👀 Interested in distributed software systems, web3 and low level design <br>
+:muscle: Cloud automation and AR/VR enthusiast <br>
 💬 Ask me anything about web technologies and cinema <br>
 ⚡ There is no in-between, either I am coding or watching films. <br>
 
