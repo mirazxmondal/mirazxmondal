@@ -2,7 +2,7 @@
 
 ### 💫 About Me
 
-- 😊 I'm a passionate, self-taught developer from India.
+- 😊 I'm a passionate self-taught developer from India. I love building and exploring the world of technology! 
 - 🔭 Currently working with the MERN and LAMP tech stacks.
 - 👯 Looking to collaborate on web development projects and contribute to open-source software.
 - 👀 Interested in distributed software systems, Web3, and low-level design.
