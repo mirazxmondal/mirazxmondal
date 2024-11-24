@@ -1,15 +1,12 @@
-<h1 align="center"> Namaste <img width="25px" src="./Assets/miraz-waveing.gif" alt="Hello Developers!">, all of you beautiful people</h1>
-<h3 align="center">
+# Namaste <img width="25px" src="./Assets/miraz-waveing.gif" alt="Hello Developers!">, beautiful people!
 
-</h3>
+### 💫 About Me
 
-# 💫 whoami
+- 😊 I'm a passionate, self-taught developer from India.
+- 🔭 Currently working with the MERN and LAMP tech stacks.
+- 👯 Looking to collaborate on web development projects and contribute to open-source software.
+- 👀 Interested in distributed software systems, Web3, and low-level design.
+- 💪 Enthusiast of cloud automation and AR/VR technologies.
+- 💬 Feel free to ask me anything about web technologies or cinema!
 
-😊 I’m a passionate self-taught developer from India <br>
-🔭 Currently working on MERN && LAMP technology stack <br>
-👯 Looking to collaborate on web dev and open source software <br>
-👀 Interested in distributed software systems, web3 and low level design <br>
-:muscle: Cloud automation and AR/VR enthusiast <br>
-💬 Ask me anything about web technologies and cinema <br>
-
-#
+🌟 Let’s connect and create something amazing together!
