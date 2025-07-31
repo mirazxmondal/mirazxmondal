@@ -1,12 +1,12 @@
-# Namaste <img width="25px" src="./Assets/miraz-waveing.gif" alt="Hello Developers!">, beautiful people!
 
-### 💫 About Me
+# miraz mondal
 
-- 😊 I'm a passionate self-taught developer from India. I love building and exploring the world of technology! 
-- 🔭 Currently working with the MERN and LAMP tech stacks.
-- 👯 Looking to collaborate on web development projects and contribute to open-source software.
-- 👀 Interested in distributed software systems, Web3, and low-level design.
-- 💪 Enthusiast of cloud automation and AR/VR technologies.
-- 💬 Feel free to ask me anything about web technologies or cinema!
+hey, i’m miraz — a product-focused generalist who enjoys solving problems, breaking things intentionally to make them better, and helping teams ship reliable, meaningful software.
 
-🌟 Let’s connect and create something amazing together!
+### what i'm into
+
+* product & qa – making software smooth, stable, and delightful to use
+* full-stack development – building with javascript, typescript, and modern frameworks
+* ui/ux & design – creating intuitive, beautiful interfaces
+* tech & ai – exploring how ai is reshaping work and interaction
+* movies & storytelling – appreciating narratives that stick
