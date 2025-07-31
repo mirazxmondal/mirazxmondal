@@ -1,7 +1,6 @@
+# Namaste <img width="25px" src="./Assets/miraz-waveing.gif" alt="Hello Developers!">, beautiful people!
 
-# miraz mondal
-
-hey, i’m miraz — a product-focused generalist who enjoys solving problems, breaking things intentionally to make them better, and helping teams ship reliable, meaningful software.
+I’m Miraz — a product-focused generalist who enjoys solving problems, breaking things intentionally to make them better, and helping teams ship reliable, meaningful software.
 
 ### what i'm into
 
@@ -10,3 +9,4 @@ hey, i’m miraz — a product-focused generalist who enjoys solving problems, b
 * ui/ux & design – creating intuitive, beautiful interfaces
 * tech & ai – exploring how ai is reshaping work and interaction
 * movies & storytelling – appreciating narratives that stick
+
